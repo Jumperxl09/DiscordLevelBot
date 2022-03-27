@@ -1,0 +1,3 @@
+Bu Dosya Silnecek Bir Dosya.
+Bu Dosyayı Projeden Silmeniz Gerekiyor
+Muhtemelen Hata Alabilirsiniz. 
